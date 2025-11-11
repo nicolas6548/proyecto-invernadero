@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Delius&family=Delius+Swash+Caps&family=Knewave&family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Delius&family=Delius+Swash+Caps&family=Knewave&family=Luckiest+Guy&display=swap');
+body {
+    background-color: bisque;
+    margin: 0;
+    background-size: cover;
+}
+h2 , h3 {
+    font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+    font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+footer {
+    font-size: 25px;
+}
+
+.indice {
+    width: 220px;
+    background-color:rgb(175, 103, 14);
+    border-right: 1px solid ;
+    padding: 1rem;
+    position: sticky;
+    top: 50px;
+    height: calc(100vh - 50px);
+    display: flex;
+    margin-top: 10px;
+}
+
+.indice h2 {
+     font-size: 1rem;
+  color: #54595d;
+  margin-bottom: 10px;
+}
